@@ -1,6 +1,12 @@
 Color of the Rainbow
 Red, 
+
 orange, 
 
 yellow, 
+
+
+
+
+green,
 
